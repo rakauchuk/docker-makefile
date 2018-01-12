@@ -15,7 +15,7 @@ To use a makefile to compile your input files, make sure that /usr/bin and /usr/
 
 Then you can compile as:
 
-`make -f makefile`
+`$ make -f makefile`
 
 where -f is the make command option to specify a particular makefile.
 
